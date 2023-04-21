@@ -37,7 +37,9 @@ The grid at the right side of the window is used to place the rooms on the map. 
 * The option "Place adjacent doors in 3d view" determines if the doors leading to another room should be displayed in the 3d viewer or not. This is useful for determining which zone a room is located in.
 * The option "**Map Settings**" allows you to modify the borders between each zone. Click on "**Apply**" to apply the changes and click on "Reset" to reset the borders to the default settings.
 * You can edit the author name and description of the map by clicking the option "**Edit Author and Description**". The setting is automatically saved when you close the window.
-* There are three different types of grids you can modify: The Facility, the Forest, and the Maintenance Tunnels. The Facility grid is the default grid used to place all the rooms and events. The forest grid is used for SCP-860-1. Note that you need to place a "room860" with its event set to a chance of 100% to make this grid appear. The same applies to the Maintenance Tunnels, except that it requires the event "room2tunnel". Note that whenever you change the grid, the list of rooms changes as well. The SCP-860-1 and Maintenance Tunnels grids are viewable in the 3d viewer as well.
+* There are three different types of grids you can modify: The Facility, the Forest, and the Maintenance Tunnels. The Facility grid is the default grid used to place all the rooms and events. The forest grid is used for SCP-860-1.
+  * Note that you need to place a "room860" with its event set to a chance of `100%` to make this grid appear. The same applies to the Maintenance Tunnels, except that it requires the event "room2tunnel".
+  * Note that whenever you change the grid, the list of rooms changes as well. The SCP-860-1 and Maintenance Tunnels grids are viewable in the 3d viewer as well.
 
 You can delete a room by right-clicking the room icon on the grid. By holding the right mouse button and swiping over the grid you can delete multiple rooms at once.
 
