@@ -1,4 +1,9 @@
-Welcome!
--------
+Ultimate Edition Team Documentation
+=======================================
 
-This is the documentation of Ultimate Edition Team.
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Map Creator
+
+   /mapcreator
