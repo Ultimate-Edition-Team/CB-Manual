@@ -5,5 +5,5 @@
 ## General
 
 * [Map Creator](general/map-creator/README.md)
-  * [Русский](general/map-creator/russkii.md)
-  * [简体中文](general/map-creator/jian-ti-zhong-wen.md)
+  * [🇷🇺 Русский](general/map-creator/russkii.md)
+  * [🇨🇳 简体中文](general/map-creator/jian-ti-zhong-wen.md)
