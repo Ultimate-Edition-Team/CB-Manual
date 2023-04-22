@@ -2,7 +2,7 @@
 description: 'SCP: Containment Breach Map Creator Version 2.1 Manual'
 ---
 
-# English
+# Map Creator
 
 ## Startup
 

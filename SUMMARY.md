@@ -2,8 +2,8 @@
 
 * [Home](README.md)
 
-## Map Creator
+## General
 
-* [English](map-creator/english.md)
-* [Русский](map-creator/russkii.md)
-* [简体中文](map-creator/jian-ti-zhong-wen.md)
+* [Map Creator](general/map-creator/README.md)
+  * [Русский](general/map-creator/russkii.md)
+  * [简体中文](general/map-creator/jian-ti-zhong-wen.md)
