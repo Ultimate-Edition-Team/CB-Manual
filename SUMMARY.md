@@ -5,9 +5,9 @@
 ## General
 
 * [Map Creator](general/map-creator/README.md)
-  * [🇷🇺 Русский](general/map-creator/ru.md)
-  * [🇨🇳 简体中文](general/map-creator/zh\_hans.md)
-  * [🇨🇳 繁體中文](general/map-creator/zh\_hant.md)
+  * [🇷🇺 🇷🇺 Русский](general/map-creator/ru.md)
+  * [🇨🇳 🇨🇳 简体中文](general/map-creator/zh\_hans.md)
+  * [🇨🇳 🇨🇳 繁體中文](general/map-creator/zh\_hant.md)
   * [🇫🇷 Français](general/map-creator/fr.md)
 
 ***

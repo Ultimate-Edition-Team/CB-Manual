@@ -1,8 +1,11 @@
 ---
-description: 'Manuel d'utilisation - SCP: Containment Breach - Créateur de cartes Version 2.1'
+utilisation - SCP: Containment Breach - Créateur de cartes Version 2.1'
+description: >-
+  Manuel d'utilisation - SCP: Containment Breach - Créateur de cartes Version
+  2.1
 ---
 
-# Créateur de cartes
+# 🇫🇷 Français
 
 ## Démarrage
 
